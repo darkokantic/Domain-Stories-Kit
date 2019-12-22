@@ -17,6 +17,7 @@ In time we have developed our own syntax and icons that work well in draw.io.
 
 To start recording Domain Stories with Draw.io you can devise your own icons but if you do like our icons you are welcome to use them. To import them into draw.io go to the Scratchpad section on the left-hand side of draw.io window. Click on the pencil icon to open the edit Scratchpad modal window. Click on Import button and import this file:
 
+https://github.com/darkokantic/Domain-Stories-Kit/blob/master/DomainStoriesScratchpad.xml
 
 Read more in our blogs:
 https://medium.com/domain-driven-stories/using-draw-io-to-capture-domain-stories-3ca828f732a0
