@@ -10,9 +10,12 @@ To record a domain story in the form of a diagram you can use a whiteboard with 
 Once you draw the story on the whiteboard it is useful to re-create it in electronic form — so you can save it for later reference. To do this you can use an online tool developed by Workplace Solutions:
 Domain Storytelling Modeler
 www.wps.de
+
 Confluence and Draw.io
+
 Unfortunately, whilst WPS modeler is a great diagramming tool, it is not integrated with Confluence CMS which we use at our workplace. In order to embed a WPS modeler diagram into a Confluence page, you must export it as an image. We find this cumbersome especially when we need to modify existing diagrams already embedded in Confluence pages.
 At our workplace, we have Confluence integrated with the draw.io diagramming tool. We use draw.io to record all our diagrams, including domain stories. The integration of draw.io is useful as it embeds the diagrams directly into the page. Confluence has a nice feature that lets you open the draw.io diagram directly from the origin page, which is particularly handy if you need to update the existing diagram.
+
 In time we have developed our own syntax and icons that work well in draw.io.
 
 To start recording Domain Stories with Draw.io you can devise your own icons but if you do like our icons you are welcome to use them. To import them into draw.io go to the Scratchpad section on the left-hand side of draw.io window. Click on the pencil icon to open the edit Scratchpad modal window. Click on Import button and import this file:
